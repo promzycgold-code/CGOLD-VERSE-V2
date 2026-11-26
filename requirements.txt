@@ -1,0 +1,9 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+python-multipart==0.0.20
+torch==2.5.1
+torchaudio==2.5.1
+demucs==4.0.1
+faster-whisper==1.1.1
+requests>=2.32.4,<3
+av==14.2.0
